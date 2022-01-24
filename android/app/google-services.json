@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978785303123",
+    "project_id": "unitest-f2bab",
+    "storage_bucket": "unitest-f2bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978785303123:android:027483239865a4bb5264a6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cloud_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978785303123-vn9jfqa029k64gu2niapfrne091i5r84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhklrVbT5lgBZ-yx9_QY4au8-igjQE6-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978785303123-vn9jfqa029k64gu2niapfrne091i5r84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
